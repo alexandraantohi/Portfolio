@@ -1,7 +1,7 @@
 # Portfolio
 In this repository I have Portfolio Projects
 
-1.Chore Door : is a single-page website that plays a fully-functional game. You will see how HTML, CSS, and JavaScript interact harmoniously to produce a dynamic website.
+1.Chore Door from Codecademy : is a single-page website that plays a fully-functional game by merging HTML, CSS, and JavaScript that interact harmoniously to produce a dynamic website.
 
 2.Musicon is a website of an online musical instruments store. I incorporated HTML, CSS, JavaScript and Handlebars to make a stylish multi-page interactive website.
 
